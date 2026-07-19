@@ -1,5 +1,6 @@
 # Modify existing bullet points: 
-> Imagine you are a senior Software Engineer recruiting manager revising my resume for an entry level Software Engineer position. Given my already written bullet points below, 
+> Imagine you are a senior Software Engineer recruiting manager revising my resume for an entry level Software Engineer position. Given my already written line separated bullet points below, think and modify them to match industry standard. Focus on understanding the achievement, highlight accomplishments with action verbs and statistics, correct grammar, avoid repeated words, look for what keywords to pass ATS that companies want, and make them easy to read. Give multiple options for different kind of roles, and ideas you have.  
+> Bullet points: 
 
 
 # Coming up with Bullet points given experiences/story 
