@@ -11,3 +11,7 @@
  
 
 > Paragraph: 
+
+
+# Resume review as a whole  
+> Imagine you are a senior Software Engineer recruiting manager critiquing my resume for an entry level Software Engineer position, you are given my full resume in pdf format. Parse through each bullet point. Tell me if you are able to parse everything correctly to clear out any formatting issues. Understand the context of each experience, project, activity, etc. Check each bullet point for precision, ease to understand, relevant to the position, whether or not modifications can be made. And any advice and suggestions you have on the structure, repetitiveness, etc.. Think step by step because this resume has to meet the strict industry standard where recruiters spend seconds scanning through the resume. 
